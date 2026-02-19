@@ -1,12 +1,11 @@
 # Welcome
 I will put something useful or useless i made in here
 
-[Website](http://server.gt.tc)
+[Website](http://a.midh.gt.tc)
 
 ```csharp
 using System;
-namespace b;
-public static class a{
+class Program{
   public static void Main(){
     Console.WriteLine("hello");
   }
